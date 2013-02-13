@@ -1,0 +1,1021 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="59346347-13b1-4adb-a074-e33ab2385ea8" name="Default" comment="" />
+    <ignored path="Good Education.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/pom.xml" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360743640264" ignored="false" />
+    <file path="/Dummy.txt" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360739295799" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Foundation/src/main/java/org/foundation/Foundation.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360744339242" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Foundation/src/main/java/org/foundation/EntitySpider.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360744339242" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Foundation/src/main/resources/app.properties" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360744339243" ignored="false" />
+    <file path="/app.properties" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360739198361" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Foundation/pom.xml" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360744339242" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Foundation/src/main/java/org/Universe.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360744339243" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Foundation/src/main/java/org/foundation/ml/NLP.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360744339243" ignored="false" />
+    <file path="/NLP.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360739681730" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Foundation/src/test/java/TestSuite.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360744339242" ignored="false" />
+    <file path="/fragment.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360740227887" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Persistence/src/test/java/org/goodtech/farm/Puuala.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360740244262" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Persistence/src/main/java/org/goodtech/farm/PlantedPlant.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360740244262" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Persistence/src/main/java/org/good/ecology/weather/AirPressure.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360740244262" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Persistence/src/main/java/org/goodtech/farm/resources/Resource.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360740244262" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Persistence/src/test/java/org/goodtech/farm/TestIrrigation.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360740244262" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Persistence/src/main/java/org/goodtech/farm/Structure.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360740244262" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Persistence/src/main/java/org/goodeducation/geo/LocationTest.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360740231437" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Persistence/src/main/java/org/goodeducation/geo/GeoidicModel.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360740231437" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Persistence/src/main/java/org/good/ecology/information/SoilAnalysis.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360740244262" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Persistence/src/main/java/org/goodeducation/geo/GeoSymbol.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360740231437" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Persistence/src/main/java/org/goodeducation/geo/Location.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360740231437" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Persistence/src/main/java/org/goodeducation/geo/Region.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360740231437" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Persistence/src/main/java/org/good/ecology/weather/Temperature.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360740244262" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Persistence/src/main/java/org/goodtech/farm/FarmMap.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360740244262" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Persistence/src/main/java/org/goodtech/farm/irigation/Leak.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360740244262" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Persistence/src/main/java/org/goodtech/farm/Field.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360740244262" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Persistence/src/test/java/org/goodtech/farm/FarmTest.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360740244262" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Persistence/src/main/java/org/goodeducation/cartography/LocationTest.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360740244262" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Persistence/src/main/java/org/goodeducation/cartography/GeoidicModel.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360740244262" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Persistence/src/main/java/org/goodeducation/cartography/GeoSymbol.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360740244262" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Persistence/src/main/java/org/goodeducation/cartography/Location.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360740244262" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Persistence/src/main/java/org/goodeducation/cartography/Region.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360740244262" ignored="false" />
+    <file path="/MaterialSafetyDataSheet.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360740485161" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Persistence/pom.xml" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360743369174" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Persistence/src/main/resources/hibernate.cfg.xml" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360743392099" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Persistence/src/test/java/TestSuite.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360742156114" ignored="false" />
+    <file path="/TestSuite.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360741214929" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Persistence/src/test/java/org/good/tech/persistence/HibernateMappingTest.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360742262533" ignored="false" />
+    <file path="/hibernate.cfg.xml" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360743387055" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Persistence/src/main/resources/org/good/education/cartography/Location.hbm.xml" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360741597870" ignored="false" />
+    <file path="/Location.hbm.xml" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360741593535" ignored="false" />
+    <file path="$PROJECT_DIR$/src/main/java/org/good/education/ecology/classification/Classification.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360741761701" ignored="false" />
+    <file path="$PROJECT_DIR$/src/main/java/org/good/education/ecology/plant/reproduction/SpreadRate.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360741761701" ignored="false" />
+    <file path="$PROJECT_DIR$/src/main/java/org/good/education/ecology/information/Biome.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360741761701" ignored="false" />
+    <file path="$PROJECT_DIR$/src/main/java/org/good/education/ecology/information/BiomeType.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360741761701" ignored="false" />
+    <file path="$PROJECT_DIR$/src/main/java/org/good/education/ecology/information/FormationType.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360741761701" ignored="false" />
+    <file path="$PROJECT_DIR$/src/main/java/org/good/education/ecology/information/ClimateZone.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360741761701" ignored="false" />
+    <file path="$PROJECT_DIR$/src/main/java/org/good/education/ecology/information/Formation.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360741761701" ignored="false" />
+    <file path="$PROJECT_DIR$/src/main/java/org/good/education/ecology/information/HardinessZone.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360741761701" ignored="false" />
+    <file path="$PROJECT_DIR$/src/main/java/org/good/education/ecology/information/biome/WhittakerBiomeClassification.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360741761701" ignored="false" />
+    <file path="$PROJECT_DIR$/src/main/java/org/good/education/ecology/information/Texture.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360741761701" ignored="false" />
+    <file path="$PROJECT_DIR$/src/main/java/org/good/education/ecology/plant/reproduction/Reproduction.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360741761701" ignored="false" />
+    <file path="$PROJECT_DIR$/src/main/java/org/good/education/ecology/information/SpringinessIndex.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360741761701" ignored="false" />
+    <file path="$PROJECT_DIR$/src/main/java/org/good/education/ecology/plant/reproduction/SeedlingVigor.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360741761701" ignored="false" />
+    <file path="$PROJECT_DIR$/src/main/java/org/good/education/ecology/information/Soil.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360741761701" ignored="false" />
+    <file path="$PROJECT_DIR$/src/main/java/org/good/education/ecology/information/KoppenClimateClassification.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360741761701" ignored="false" />
+    <file path="$PROJECT_DIR$/src/main/java/org/good/education/ecology/plant/reproduction/seedvigor/ColdTest.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360741761701" ignored="false" />
+    <file path="$PROJECT_DIR$/src/main/java/org/good/education/ecology/plant/reproduction/seedvigor/ElectricalConductivityTest.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360741761701" ignored="false" />
+    <file path="$PROJECT_DIR$/src/main/java/org/good/education/ecology/plant/reproduction/seedvigor/SeedlingGrowthRate.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360741761701" ignored="false" />
+    <file path="$PROJECT_DIR$/src/main/java/org/good/education/ecology/plant/reproduction/seedvigor/SeedlingVigorClassification.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360741761701" ignored="false" />
+    <file path="$PROJECT_DIR$/src/main/java/org/good/education/ecology/plant/reproduction/seedvigor/AcceleratedAgingTest.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360741761702" ignored="false" />
+    <file path="$PROJECT_DIR$/src/main/java/org/good/education/ecology/classification/Division.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360741761702" ignored="false" />
+    <file path="$PROJECT_DIR$/src/main/java/org/good/education/ecology/classification/Order.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360741761702" ignored="false" />
+    <file path="$PROJECT_DIR$/src/main/java/org/good/education/ecology/classification/Kingdom.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360741761702" ignored="false" />
+    <file path="$PROJECT_DIR$/src/main/java/org/good/education/ecology/classification/Phylum.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360741761702" ignored="false" />
+    <file path="$PROJECT_DIR$/src/main/java/org/good/education/ecology/classification/Species.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360741761702" ignored="false" />
+    <file path="$PROJECT_DIR$/src/main/java/org/good/education/ecology/classification/ClassOfLife.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360741761702" ignored="false" />
+    <file path="$PROJECT_DIR$/src/main/java/org/good/education/ecology/classification/Family.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360741761702" ignored="false" />
+    <file path="$PROJECT_DIR$/src/main/java/org/good/education/ecology/classification/Genus.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360741761702" ignored="false" />
+    <file path="$PROJECT_DIR$/src/main/java/org/good/education/ecology/classification/ClassificationBuilder.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360741761702" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Persistence/src/main/resources/org/good/education/ecology/classification/Order.hbm.xml" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360742015648" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Persistence/src/main/resources/org/goodtech/farm/PlantedPlant.hbm.xml" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360742015648" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Persistence/src/main/resources/org/good/education/ecology/plant/reproduction/Reproduction.hbm.xml" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360742015648" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Persistence/src/main/resources/org/good/education/ecology/classification/Classification.hbm.xml" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360742015648" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Persistence/src/main/resources/org/good/education/ecology/plant/physiology/PlantPhysiology.hbm.xml" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360742015648" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Persistence/src/main/resources/org/good/education/ecology/classification/Family.hbm.xml" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360742015648" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Persistence/src/main/resources/org/good/education/ecology/plant/Plant.hbm.xml" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360742015648" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Persistence/src/main/resources/org/good/education/ecology/classification/Kingdom.hbm.xml" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360742015648" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Persistence/src/main/resources/org/good/education/ecology/classification/Species.hbm.xml" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360742015648" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Persistence/src/main/resources/org/good/education/ecology/plant/PlantCharacteristics.hbm.xml" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360742015648" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Persistence/src/main/resources/org/good/education/ecology/classification/Phylum.hbm.xml" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360742015648" ignored="false" />
+    <file path="/HibernateMappingTest.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360742261209" ignored="false" />
+    <file path="$PROJECT_DIR$/../FarmMap Entities/pom.xml" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360742576264" ignored="false" />
+    <file path="$PROJECT_DIR$/../FarmMap Entities/src/main/java/org/good/tech/tribes/Person.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360743255075" ignored="false" />
+    <file path="$PROJECT_DIR$/../FarmMap Entities/.idea/workspace.xml" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360744340717" ignored="false" />
+    <file path="$PROJECT_DIR$/../FarmMap Entities/.idea/misc.xml" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360742847293" ignored="false" />
+    <file path="$PROJECT_DIR$/../FarmMap Entities/src/main/java/org/good/tech/farm/resources/Resource.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360743175531" ignored="false" />
+    <file path="$PROJECT_DIR$/../FarmMap Entities/src/main/java/org/good/tech/farm/tools/Tool.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360743179151" ignored="false" />
+    <file path="$PROJECT_DIR$/../FarmMap Entities/src/main/java/org/good/tech/business/management/Backlog.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360743093684" ignored="false" />
+    <file path="/Backlog.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360742959458" ignored="false" />
+    <file path="$PROJECT_DIR$/../FarmMap Entities/src/main/java/org/good/tech/business/management/BacklogDAL.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360743015733" ignored="false" />
+    <file path="$PROJECT_DIR$/../FarmMap Entities/src/main/java/org/good/tech/business/management/Task.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360743119106" ignored="false" />
+    <file path="$PROJECT_DIR$/../FarmMap Entities/src/main/java/org/good/tech/business/management/TaskState.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360743076353" ignored="false" />
+    <file path="$PROJECT_DIR$/../FarmMap Entities/src/main/java/org/good/tech/business/management/Project.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360743087244" ignored="false" />
+    <file path="$PROJECT_DIR$/../FarmMap Entities/src/main/java/org/good/tech/business/management/Notification.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360743089758" ignored="false" />
+    <file path="$PROJECT_DIR$/../FarmMap Entities/src/main/java/org/good/tech/business/management/Milestone.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360743092006" ignored="false" />
+    <file path="$PROJECT_DIR$/../FarmMap Entities/src/main/java/org/good/tech/business/Business.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360743123909" ignored="false" />
+    <file path="$PROJECT_DIR$/../FarmMap Entities/src/main/java/org/good/tech/business/Division.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360743304992" ignored="false" />
+    <file path="$PROJECT_DIR$/../FarmMap Entities/src/main/java/org/good/tech/business/Export.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360743131617" ignored="false" />
+    <file path="$PROJECT_DIR$/../FarmMap Entities/src/main/java/org/good/tech/business/Exports.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360743135196" ignored="false" />
+    <file path="$PROJECT_DIR$/../FarmMap Entities/src/main/java/org/good/tech/business/Import.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360743137989" ignored="false" />
+    <file path="$PROJECT_DIR$/../FarmMap Entities/src/main/java/org/good/tech/business/Imports.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360743141608" ignored="false" />
+    <file path="$PROJECT_DIR$/../FarmMap Entities/src/main/java/org/good/tech/business/Manufacturer.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360743144841" ignored="false" />
+    <file path="$PROJECT_DIR$/../FarmMap Entities/src/main/java/org/good/tech/farm/irigation/Irigation.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360743299929" ignored="false" />
+    <file path="$PROJECT_DIR$/../FarmMap Entities/src/main/java/org/good/tech/farm/irigation/IrigationMap.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360743157022" ignored="false" />
+    <file path="$PROJECT_DIR$/../FarmMap Entities/src/main/java/org/good/tech/farm/irigation/Leak.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360743295610" ignored="false" />
+    <file path="$PROJECT_DIR$/../FarmMap Entities/src/main/java/org/good/tech/farm/irigation/Pump.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360743163737" ignored="false" />
+    <file path="$PROJECT_DIR$/../FarmMap Entities/src/main/java/org/good/tech/farm/reporting/OrganicCertification.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360743168893" ignored="false" />
+    <file path="$PROJECT_DIR$/../FarmMap Entities/src/main/java/org/good/tech/farm/reporting/SeedRecord.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360743171738" ignored="false" />
+    <file path="$PROJECT_DIR$/../FarmMap Entities/src/main/java/org/good/tech/farm/tools/ToolType.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360743183081" ignored="false" />
+    <file path="$PROJECT_DIR$/../FarmMap Entities/src/main/java/org/good/tech/farm/Crop.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360743186562" ignored="false" />
+    <file path="$PROJECT_DIR$/../FarmMap Entities/src/main/java/org/good/tech/farm/Farm.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360743190379" ignored="false" />
+    <file path="$PROJECT_DIR$/../FarmMap Entities/src/main/java/org/good/tech/farm/FarmMap.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360743286842" ignored="false" />
+    <file path="$PROJECT_DIR$/../FarmMap Entities/src/main/java/org/good/tech/farm/FarmType.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360743197477" ignored="false" />
+    <file path="$PROJECT_DIR$/../FarmMap Entities/src/main/java/org/good/tech/farm/Field.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360743274971" ignored="false" />
+    <file path="$PROJECT_DIR$/../FarmMap Entities/src/main/java/org/good/tech/farm/PlantedPlant.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360743267345" ignored="false" />
+    <file path="$PROJECT_DIR$/../FarmMap Entities/src/main/java/org/good/tech/farm/Seed.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360743209202" ignored="false" />
+    <file path="$PROJECT_DIR$/../FarmMap Entities/src/main/java/org/good/tech/farm/Structure.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360743260268" ignored="false" />
+    <file path="$PROJECT_DIR$/../FarmMap Entities/src/main/java/org/good/tech/tribes/Behavior.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360743218109" ignored="false" />
+    <file path="$PROJECT_DIR$/../FarmMap Entities/src/main/java/org/good/tech/tribes/Indavidual.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360743221316" ignored="false" />
+    <file path="$PROJECT_DIR$/../FarmMap Entities/src/main/java/org/good/tech/tribes/Persona.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360743231911" ignored="false" />
+    <file path="$PROJECT_DIR$/../FarmMap Entities/src/main/java/org/good/tech/tribes/Tribe.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360743249753" ignored="false" />
+    <file path="/FarmMap.hbm.xml" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360743522530" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Persistence/src/main/resources/org/good/tech/farm/FarmMap.hbm.xml" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360743524274" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Persistence/src/main/resources/org/good/tech/farm/Farm.hbm.xml" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360743479588" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Persistence/src/main/resources/org/good/tech/farm/Crop.hbm.xml" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360743487331" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Persistence/src/main/resources/org/good/tech/farm/Field.hbm.xml" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360743547081" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Persistence/src/main/resources/org/good/tech/farm/PlantedPlant.hbm.xml" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360743577017" ignored="false" />
+    <file path="/Field.hbm.xml" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360743545546" ignored="false" />
+    <file path="/PlantedPlant.hbm.xml" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360743575845" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../In Progress Projects/Geo-API/ServerAPI/pom.xml" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360743658509" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../In Progress Projects/Geo-API/ServerAPI/src/test/java/com/geoapi/api/TestFarmService.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360743683581" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../In Progress Projects/Geo-API/ServerAPI/src/main/java/com/geoapi/api/server/services/implementations/FarmService.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360743706252" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../In Progress Projects/Geo-API/ServerAPI/src/main/java/com/geoapi/api/server/services/implementations/PlantService.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360743717701" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Foundation/src/main/java/org/foundation/framework/mcl/persistence/GenericDAOImpl.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360744112473" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Foundation/src/main/java/org/goodgod/controller/MessagePayloadHandler.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360744339242" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Foundation/src/main/java/org/goodgod/controller/MessageHandler.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360744339242" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Foundation/src/main/java/org/universe/Has.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360744339242" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Foundation/src/main/java/org/universe/Is.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360744339242" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Foundation/src/main/java/org/universe/Relationship.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360744339242" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Foundation/src/main/java/org/foundation/Interaction.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360744339242" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Foundation/src/main/java/org/foundation/Prepositions.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360744339242" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Foundation/src/main/java/org/goodeducation/language/Sentence.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360744339242" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Foundation/src/main/java/org/foundation/aop/AOPConduit.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360744339242" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Foundation/src/main/java/org/foundation/aop/AOPProcedure.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360744339242" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Foundation/src/main/java/org/foundation/aop/AOPRuntime.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360744339242" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Foundation/src/main/java/org/foundation/aop/InstanceRelationshipObserver.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360744339242" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Foundation/src/main/java/org/foundation/framework/mcl/ControllableEntityLayer.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360744339242" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Foundation/tech/foundation/NodeTest.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360744339242" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Foundation/src/main/java/org/foundation/framework/mcl/Controller.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360744339242" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Foundation/src/main/java/org/foundation/framework/mcl/DataAccessLayer.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360744339242" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Foundation/src/main/java/org/goodgod/controller/Message.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360744339242" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Foundation/src/main/java/org/goodeducation/language/Word.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360744339242" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Foundation/src/main/java/org/goodeducation/language/LevenshteinDistance.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360744339242" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Foundation/src/main/java/org/foundation/framework/mcl/persistence/HibernateUtilities.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360744339242" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Foundation/src/main/java/org/goodeducation/language/Language.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360744339242" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Foundation/src/main/java/org/foundation/framework/mcl/persistence/SessionFactoryBuilder.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360744339242" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Foundation/src/main/java/org/foundation/ml/DataSphere.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360744339242" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Foundation/src/main/java/org/foundation/ml/Label.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360744339242" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Foundation/src/main/java/org/goodeducation/physics/Color.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360744339243" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Foundation/src/main/java/org/foundation/ml/LabelDAO.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360744339243" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Foundation/src/main/java/org/goodgod/controller/MessageController.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360744339243" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Foundation/src/main/java/org/foundation/ml/Measurement.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360744339243" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Foundation/src/main/java/org/foundation/ml/ReferenceFrame.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360744339243" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Foundation/src/main/java/org/foundation/warehouse/ActivePersistence.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360744339243" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Foundation/src/main/java/org/foundation/warehouse/ActivePersistenceImpl.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360744339243" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Foundation/src/main/java/org/foundation/warehouse/PersistenceState.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360744339243" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Foundation/src/main/java/org/foundation/warehouse/Warehouse.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360744339243" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Foundation/src/main/java/org/foundation/warehouse/WarehouseImpl.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360744339243" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Foundation/src/main/java/org/goodgod/controller/ScopedMethod.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360744339243" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Foundation/tech/test/BaseAspectTest.java" changelist="59346347-13b1-4adb-a074-e33ab2385ea8" time="1360744339243" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CloverPlugin" class="com.cenqua.clover.idea.config.IdeaCloverConfig">
+    <loadPerTestData>true</loadPerTestData>
+    <projectRebuild class="com.cenqua.clover.idea.config.ProjectRebuild">ASK</projectRebuild>
+    <filteredHighlight>-4144960</filteredHighlight>
+    <relativeInitString>false</relativeInitString>
+    <buildWithClover>true</buildWithClover>
+    <lastProjectConfigTabSelected>0</lastProjectConfigTabSelected>
+    <periodicRefresh>false</periodicRefresh>
+    <notCoveredStripe>-65536</notCoveredStripe>
+    <flushPolicy>0</flushPolicy>
+    <viewIncludeAnnotation>true</viewIncludeAnnotation>
+    <alwaysExpandTestClasses>false</alwaysExpandTestClasses>
+    <languageLevel>1.3</languageLevel>
+    <manualInitString null="true" />
+    <autoRefreshInterval>2000</autoRefreshInterval>
+    <flushInterval>5000</flushInterval>
+    <showInline>true</showInline>
+    <showSummaryInToolwindow>true</showSummaryInToolwindow>
+    <autoRefresh>true</autoRefresh>
+    <coveredHighlight>-3605816</coveredHighlight>
+    <enabled>true</enabled>
+    <alwaysCollapseTestClasses>false</alwaysCollapseTestClasses>
+    <filteredStripe>-12566464</filteredStripe>
+    <excludes null="true" />
+    <calculateTestCoverage>true</calculateTestCoverage>
+    <instrumentTests>true</instrumentTests>
+    <outOfDateHighlight>-32</outOfDateHighlight>
+    <notCoveredHighlight>-341816</notCoveredHighlight>
+    <hideFullyCovered>false</hideFullyCovered>
+    <cloudReportIncludeSubpkgs>false</cloudReportIncludeSubpkgs>
+    <includes null="true" />
+    <includePassedTestCoverageOnly>true</includePassedTestCoverageOnly>
+    <testViewScope class="com.cenqua.clover.idea.config.TestViewScope">GLOBAL</testViewScope>
+    <testCaseLayout class="com.cenqua.clover.idea.config.TestCaseLayout">TEST_CASES</testCaseLayout>
+    <viewCoverage>true</viewCoverage>
+    <contextFilterSpec />
+    <coveredStripe>-16711936</coveredStripe>
+    <autoViewInCloudReport>true</autoViewInCloudReport>
+    <autoScroll>true</autoScroll>
+    <useGeneratedInitString>true</useGeneratedInitString>
+    <showGutter>true</showGutter>
+    <failedCoveredStripe>-14336</failedCoveredStripe>
+    <regexpContexts class="java.util.ArrayList" />
+    <flattenPackages>false</flattenPackages>
+    <autoScrollFromSource>false</autoScrollFromSource>
+    <showErrorMarks>true</showErrorMarks>
+    <showTooltips>true</showTooltips>
+    <showSummaryInToolbar>true</showSummaryInToolbar>
+    <span>0</span>
+    <outOfDateStripe>-256</outOfDateStripe>
+    <modelScope class="com.cenqua.clover.idea.config.ModelScope">APP_CLASSES_ONLY</modelScope>
+    <failedCoveredHighlight>-3920</failedCoveredHighlight>
+    <highlightCovered>true</highlightCovered>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Good Education" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="78" column="39" selection-start="1838" selection-end="2341" vertical-scroll-proportion="0.7976879">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AirPressure.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/good/education/ecology/weather/AirPressure.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="49" column="31" selection-start="1114" selection-end="1114" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SoilAnalysis.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/good/education/ecology/information/SoilAnalysis.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="5" selection-start="889" selection-end="889" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GrowthRequirements.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/good/education/ecology/plant/growthRequirements/GrowthRequirements.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="385" column="30" selection-start="10955" selection-end="10955" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PlantCharacteristics.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/good/education/ecology/plant/PlantCharacteristics.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="188" column="30" selection-start="3536" selection-end="3536" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Location.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/good/education/cartography/Location.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="38" selection-start="8" selection-end="38" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EnzymeCharactaristics.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/good/education/nutrition/enzyme/EnzymeCharactaristics.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="59" column="61" selection-start="1582" selection-end="1582" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Step.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/good/education/information/instructions/Step.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="0" selection-start="874" selection-end="874" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MaterialSafetyDataSheet.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/good/education/biochem/MaterialSafetyDataSheet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="81" column="11" selection-start="1744" selection-end="1744" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Temperature.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/good/education/physics/Temperature.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="49" column="32" selection-start="1109" selection-end="1109" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/org/goodeducation/physics/Temperature.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/goodeducation/nutrition/enzyme/EnzymeBuilder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/goodeducation/nutrition/enzyme/EnzymeCharactaristics.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/goodeducation/information/instructions/Step.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/goodeducation/biochem/MaterialSafetyDataSheet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/goodeducation/cartography/Location.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/good/education/cartography/Location.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/org/good/education/ecology/weather/AirPressure.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/good/education/ecology/information/SoilAnalysis.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/good/education/ecology/plant/growthRequirements/GrowthRequirements.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/good/education/ecology/plant/PlantCharacteristics.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Good Education Entities" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Good Education Entities" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_INTERNAL" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1680" />
+    <option name="height" value="1024" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Good Education" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Good Education" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Good Education" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Good Education" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Good Education" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Good Education" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Good Education" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Good Education" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Good Education" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="org" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="language" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Good Education" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Good Education" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="org" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="education" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Good Education" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Good Education" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="org" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="education" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ecology" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Good Education" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Good Education" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="org" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="education" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ecology" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="weather" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Good Education" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Good Education" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="org" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="education" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ecology" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plant" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Good Education" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Good Education" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="org" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="education" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ecology" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plant" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="physiology" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <list size="0" />
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59346347-13b1-4adb-a074-e33ab2385ea8" name="Default" comment="" />
+      <created>1360738022358</created>
+      <updated>1360738022358</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1680" height="1024" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cloverage" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32986537" sideWeight="0.670354" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.249694" sideWeight="0.670354" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32964602" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Test Runs" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/good/education/biochem/Chemical.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="8" selection-start="517" selection-end="517" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/good/education/physics/Temperature.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="32" selection-start="1109" selection-end="1109" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/good/education/nutrition/enzyme/EnzymeCharactaristics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="61" selection-start="1582" selection-end="1582" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/good/education/information/instructions/Step.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="0" selection-start="874" selection-end="874" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/good/education/biochem/MaterialSafetyDataSheet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="81" column="11" selection-start="1744" selection-end="1744" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/good/education/cartography/Location.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="38" selection-start="8" selection-end="38" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/good/education/ecology/weather/AirPressure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="31" selection-start="1114" selection-end="1114" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/good/education/ecology/information/SoilAnalysis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="5" selection-start="889" selection-end="889" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/good/education/ecology/plant/growthRequirements/GrowthRequirements.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="385" column="30" selection-start="10955" selection-end="10955" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/good/education/ecology/plant/PlantCharacteristics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="188" column="30" selection-start="3536" selection-end="3536" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="78" column="39" selection-start="1838" selection-end="2341" vertical-scroll-proportion="0.7976879">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
